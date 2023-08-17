@@ -1,21 +1,27 @@
 # Base Rules
 
+_The minimal fundamental rules of Bartok._
+
 The dealer deals 5 cards to each player at the beginning of the round.
 The dealer draws the top card from the deck and lays it on the table to begin the pile.
 Play begins from the left of the dealer and continues clockwise.
 On their turn, a player must either:
 - play a card from their hand on the pile such that either the suit or the value of the card matches that of the top of the pile, or
 - draw a card from the deck.
+
 Either of these actions ends the player's turn.
 At any point, a player may accuse another of having broken a rule. Play pauses immediately.
 - If the player is found guilty of breaking a rule by consensus of players at the table, then the player must draw a card.
 - If the player is not found guilty of breaking a rule, then the accusing player must draw a card.
+
 If a player ends their turn with no cards, they win the round.
 
 At the end of a round, the player having least recently contributed a rule must describe a rule to be added to the game for all future rounds.
 The rule must be general, applying equally to all players.
 
 # Developed Rules
+
+_Rules added as a result of playing Bartok._
 
 ## Jokers Wild
 _Added by Matt, 14 Aug 2023_
