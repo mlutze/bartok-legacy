@@ -54,7 +54,7 @@ _Added by Jonathan, 14 Aug 2023_
 When you play a 2, you must designate two other players:
 - a Giver
 - a Receiver
-- 
+
 the Giver selects two cards from their hand and gives them to the Receiver.
 
 ## Hidden Trap Card
