@@ -14,6 +14,8 @@ At any point, a player may accuse another of having broken a rule. Play pauses i
 - If the player is found guilty of breaking a rule by consensus of players at the table, then the player must draw a card.
 - If the player is not found guilty of breaking a rule, then the accusing player must draw a card.
 
+In either case, after the accusor or guilty player has drawn a card, play continues where it was paused.
+
 If a player ends their turn with no cards, they win the round.
 
 At the end of a round, the player having least recently contributed a rule must describe a rule to be added to the game for all future rounds.
@@ -33,7 +35,7 @@ they may be played on any card and any card may be played on them.
 ## Trap Card
 _Added by Andreas, 14 Aug 2023_
 
-On your turn, rather than playing or drawing a card, you may play a lay a trap card.
+On your turn, rather than playing or drawing a card, you may set a trap card face-down.
 You may only have one trap card at a time.
 You may play the trap card at any time.
 The trap card must change the suit (playing a Joker or playing on a Joker qualifies).
@@ -46,7 +48,7 @@ When you would play a card on your turn,
 you may instead play a collection of cards such that:
 - the first card alone would be valid to play
 - the remaining cards are in increasing order
-- the remaining have prime values, where a Jack, Queen, King, and Ace have the values 11, 12, 13, and 14, respectively.
+- all the cards have prime values, where a Jack, Queen, King, and Ace have the values 11, 12, 13, and 14, respectively.
 
 ## Give 2
 _Added by Jonathan, 14 Aug 2023_
