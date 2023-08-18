@@ -16,7 +16,7 @@ At any point, a player may accuse another of having broken a rule. Play pauses i
 
 In either case, after the accusor or guilty player has drawn a card, play continues where it was paused.
 
-If a player ends their turn with no cards, they win the round.
+If at any point, a player has no cards in their hand, then they win the round.
 
 At the end of a round, the player having least recently contributed a rule must describe a rule to be added to the game for all future rounds.
 The rule must be general, applying equally to all players.
