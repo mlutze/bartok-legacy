@@ -63,3 +63,44 @@ the Giver selects two cards from their hand and gives them to the Receiver.
 _Added by Matt, 14 Aug 2023_
 
 You may not look at your trap card once you have set it.
+
+## Bartok
+_Added by Mathias, 21 Aug 2023_
+
+If you begin to have 1 card, then you must say "Bartok" before someone next plays a card.
+
+## Aces Reverse
+_Added by Xavier, 21 Aug 2023_
+
+If you play an Ace, then turn order is reversed.
+
+## Toktok
+_Added by Jonathan, 21 Aug 2023_
+
+If you begin to have two cards, then you must say "Toktok" before someone next plays a card.
+
+## Delay of Game
+_Added by Matt, 21 Aug 2023_
+
+You may at any point raise your hadn to indicate that the current player is taking too long.
+If the majority of players raise their hands, the current player draws a penalty card.
+
+## Root Groups
+_Added by Mathias, 21 Aug 2023_
+
+When you would play a card on your turn,
+you may instead play a collection of $n$ cards of the same value $v$ such that:
+- the first card alone would be valid to play
+- $v = i^n$ for some integer $i$
+
+where the value of an Ace is 1.
+
+## Royal Family
+_Added by Xavier, 21 Aug 2023_
+
+When you would play a card on your turn,
+you may instead play a collection of cards such that:
+- the first card is either a King or Queen
+- the first card alone would be valid to play
+- the collection includes both a King and Queen
+- the collection optionally includes an additional card if the King and Queen are of the same suit
