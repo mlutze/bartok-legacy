@@ -104,3 +104,13 @@ you may instead play a collection of cards such that:
 - the first card alone would be valid to play
 - the collection includes both a King and Queen
 - the collection optionally includes an additional card if the King and Queen are of the same suit
+
+## Dealer Button
+_Added by Jonathan, 30 Aug 2023_
+
+The Dealer is designated by the Dealer Token. If you are Dealer, you may not touch the cards unless you are in possession of the Token.
+
+## Official Cut
+_Added by Matt, 30 Aug 2023_
+
+If you are Dealer, after shuffling, you must designate a Cutter. The Cutter must cut the deck after receiving the WIP
