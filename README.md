@@ -82,7 +82,7 @@ If you begin to have two cards, then you must say "Toktok" before someone next p
 ## Delay of Game
 _Added by Matt, 21 Aug 2023_
 
-You may at any point raise your hadn to indicate that the current player is taking too long.
+You may at any point raise your hand to indicate that the current player is taking too long.
 If the majority of players raise their hands, the current player draws a penalty card.
 
 ## Root Groups
