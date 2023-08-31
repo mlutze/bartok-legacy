@@ -108,9 +108,37 @@ you may instead play a collection of cards such that:
 ## Dealer Button
 _Added by Jonathan, 30 Aug 2023_
 
-The Dealer is designated by the Dealer Token. If you are Dealer, you may not touch the cards unless you are in possession of the Token.
+The Dealer is designated by the Dealer Token.
+If you are Dealer, you may not touch the cards unless you are in possession of the Token.
 
 ## Official Cut
 _Added by Matt, 30 Aug 2023_
 
-If you are Dealer, after shuffling, you must designate a Cutter. The Cutter must cut the deck after receiving the WIP
+If you are Dealer, after shuffling, you must designate a Cutter.
+If you are Cutter, you must then receive the Dealer Token, then the deck,
+cut the deck, and return the Token and deck to the Dealer.
+If you are Dealer, you may not thereafter manipulate the cards except to deal them.
+
+## Slam
+_Added by Mathias, 30 Aug 2023_
+
+If you draw a card on your turn instead of playing another move,
+you may play the drawn card if it is otherwise valid to do so.
+
+## Honorable Penalty
+_Added by Xavier, 30 Aug 2023_
+
+If you are to draw a penalty card,
+you must first bow to the Dealer.
+
+## 8 Skips
+_Added by Jonathan, 30 Aug 2023_
+
+If you play an 8, the next player's turn is skipped.
+If you play multiple 8's, one player is skipped per 8.
+
+## Victory Celebration
+_Added by Matt, 30 Aug 2023_
+
+If you would play one or more cards such that you would begin to have 0 cards,
+you must first audibly celebrate.
