@@ -115,21 +115,22 @@ If you are Dealer, you may not touch the cards unless you are in possession of t
 _Added by Matt, 30 Aug 2023_
 
 If you are Dealer, after shuffling, you must designate a Cutter.
-If you are Cutter, you must then receive the Dealer Token, then the deck,
-cut the deck, and return the Token and deck to the Dealer.
+If you are Cutter, you must then receive the Dealer Token and the deck,
+then cut the deck, and return the Token and deck to the Dealer.
 If you are Dealer, you may not thereafter manipulate the cards except to deal them.
 
 ## Slam
 _Added by Mathias, 30 Aug 2023_
 
 If you draw a card on your turn instead of playing another move,
-you may play the drawn card if it is otherwise valid to do so.
+you may play the drawn card or a collection of cards including the drawn card
+if it is otherwise valid to do so.
 
 ## Honorable Penalty
 _Added by Xavier, 30 Aug 2023_
 
 If you are to draw a penalty card,
-you must first bow to the Dealer.
+you must first make eye contact with the Dealer and bow.
 
 ## 8 Skips
 _Added by Jonathan, 30 Aug 2023_
