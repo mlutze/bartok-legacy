@@ -123,7 +123,7 @@ If you are Dealer, you may not thereafter manipulate the cards except to deal th
 _Added by Mathias, 30 Aug 2023_
 
 If you draw a card on your turn instead of playing another move,
-you may play the drawn card or a collection of cards including the drawn card
+you may thereafter play a card or a collection of cards
 if it is otherwise valid to do so.
 
 ## Honorable Penalty
