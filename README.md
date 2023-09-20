@@ -143,3 +143,32 @@ _Added by Matt, 30 Aug 2023_
 
 If you would play one or more cards such that you would begin to have 0 cards,
 you must first audibly celebrate.
+
+## Turn Token
+_Added by Mathias, 13 Sep 2023_
+
+The Active Player is designated by the Turn Token.
+The first action on your turn must be to take the Token from the center.
+The last action on your turn must be to remove the Token from the center.
+
+## Private Penalty
+_Added by Jonathan, 13 Sep 2023_
+
+Before taking a penalty card, you may close your eyes and bow,
+rather than making eye contact with the Dealer and bowing.
+
+## No Self-Traps
+_Added by Matt, 13 Sep 2023_
+
+You may only play a trap card when you are not in possession of the Turn Token.
+
+## Tokbar
+_Added by Mathias, 13 Sep 2023_
+
+If you begin to have 3 cards, then you must say "Tokbar" before someone next plays a card.
+
+## Modified Trap
+_Added by Jonathan, 13 Sep 2023_
+
+When you play a trap card, you may say a card value one step higher or lower than the card's value.
+The card is then considered to have that value.
