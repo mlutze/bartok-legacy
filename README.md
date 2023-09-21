@@ -172,3 +172,36 @@ _Added by Jonathan, 13 Sep 2023_
 
 When you play a trap card, you may say a card value one step higher or lower than the card's value.
 The card is then considered to have that value.
+
+## 6 Splits
+_Added by Matt, 20 Sep 2023_
+
+When you play a 6, you must play the card in a new pile.
+Subsequent moves may play on any pile.
+
+## Barbar
+_Added by Jonathan, 20 Sep 2023_
+
+If you begin to have 4 cards, then you must say "Barbar" before someone next plays a card.
+
+## Killer Jack
+_Added by Matt, 20 Sep 2023_
+
+A pile containing a Jack may not be played upon unless all piles contain a Jack.
+
+## 3 Flips
+_Added by Jonathan, 20 Sep 2023_
+
+When you play a 3, you must flip the pile.
+If the top card of the pile is face-down, you must then flip it.
+
+## Take 2
+_Added by Matt, 20 Sep 2023_
+
+When you would draw a non-penalty card on your turn,
+you may instead take two cards from the pile.
+
+## Hand of 6
+_Added by Jonathan, 20 Sep 2023_
+
+Each player begins play with 6 cards.
