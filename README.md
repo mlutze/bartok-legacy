@@ -57,7 +57,7 @@ they may instead play a collection of cards such that:
 ## Give 2
 _Added by Jonathan, 14 Aug 2023_
 
-When player plays a 2, they must designate two other players:
+When a player plays a 2, they must designate two other players:
 - a Giver
 - a Receiver
 
@@ -180,7 +180,7 @@ The card is then considered to have that value.
 ## 6 Splits
 _Added by Matt, 20 Sep 2023_
 
-When a player plasy a 6, they must play the card in a new pile.
+When a player plays a 6, they must play the card in a new pile.
 Subsequent moves may play on any pile.
 
 ## Barbar
