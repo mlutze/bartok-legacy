@@ -21,6 +21,10 @@ If at any point, a player has no cards in their hand, then they win the round.
 At the end of a round, the player having least recently contributed a rule must describe a rule to be added to the game for all future rounds.
 The rule must be general, applying equally to all players.
 
+## Terms
+- Active Player: The player whose turn it is.
+- Pending Player: The player who must take an action in order to progress the game.
+
 # Developed Rules
 
 _Rules added as a result of playing Bartok._
@@ -35,17 +39,17 @@ they may be played on any card and any card may be played on them.
 ## Trap Card
 _Added by Andreas, 14 Aug 2023_
 
-On your turn, rather than playing or drawing a card, you may set a trap card face-down.
-You may only have one trap card at a time.
-You may play the trap card at any time.
+Rather than playing or drawing a card, the Active Player may set a trap card face-down.
+Each player may only have one trap card at a time.
+A player may play the trap card at any time.
 The trap card must change the suit (playing a Joker or playing on a Joker qualifies).
-If you play the trap card on your turn, your turn ends.
+If the Active Player plays the trap card, their turn ends.
 
 ## Prime Sequence
 _Added by Xavier, 14 Aug 2023_
 
-When you would play a card on your turn,
-you may instead play a collection of cards such that:
+When the active player would play a card,
+they may instead play a collection of cards such that:
 - the first card alone would be valid to play
 - the remaining cards are in increasing order
 - all the cards have prime values, where a Jack, Queen, King, and Ace have the values 11, 12, 13, and 14, respectively.
@@ -53,7 +57,7 @@ you may instead play a collection of cards such that:
 ## Give 2
 _Added by Jonathan, 14 Aug 2023_
 
-When you play a 2, you must designate two other players:
+When a player plays a 2, they must designate two other players:
 - a Giver
 - a Receiver
 
@@ -62,34 +66,34 @@ the Giver selects two cards from their hand and gives them to the Receiver.
 ## Hidden Trap Card
 _Added by Matt, 14 Aug 2023_
 
-You may not look at your trap card once you have set it.
+A player may not look at their trap card once they have set it.
 
 ## Bartok
 _Added by Mathias, 21 Aug 2023_
 
-If you begin to have 1 card, then you must say "Bartok" before someone next plays a card.
+If a player begins to have 1 card, then they must say "Bartok" before a player next plays a card.
 
 ## Aces Reverse
 _Added by Xavier, 21 Aug 2023_
 
-If you play an Ace, then turn order is reversed.
+If a player plays an Ace, then turn order is reversed.
 
 ## Toktok
 _Added by Jonathan, 21 Aug 2023_
 
-If you begin to have two cards, then you must say "Toktok" before someone next plays a card.
+If a player begins to have two cards, then they must say "Toktok" before a player next plays a card.
 
 ## Delay of Game
 _Added by Matt, 21 Aug 2023_
 
-You may at any point raise your hand to indicate that the current player is taking too long.
-If the majority of players raise their hands, the current player draws a penalty card.
+A player may at any point raise their hand to indicate that the current player is taking too long.
+If the majority of players raise their hands, the Pending Player draws a penalty card.
 
 ## Root Groups
 _Added by Mathias, 21 Aug 2023_
 
-When you would play a card on your turn,
-you may instead play a collection of $n$ cards of the same value $v$ such that:
+When the Active Player would play a card,
+they may instead play a collection of $n$ cards of the same value $v$ such that:
 - the first card alone would be valid to play
 - $v = i^n$ for some integer $i$
 
@@ -98,8 +102,8 @@ where the value of an Ace is 1.
 ## Royal Family
 _Added by Xavier, 21 Aug 2023_
 
-When you would play a card on your turn,
-you may instead play a collection of cards such that:
+When the Active Player would play a card,
+they may instead play a collection of cards such that:
 - the first card is either a King or Queen
 - the first card alone would be valid to play
 - the collection includes both a King and Queen
@@ -109,80 +113,80 @@ you may instead play a collection of cards such that:
 _Added by Jonathan, 30 Aug 2023_
 
 The Dealer is designated by the Dealer Token.
-If you are Dealer, you may not touch the cards unless you are in possession of the Token.
+The Dealer may not touch the cards unless they are in possession of the Token.
 
 ## Official Cut
 _Added by Matt, 30 Aug 2023_
 
-If you are Dealer, after shuffling, you must designate a Cutter.
-If you are Cutter, you must then receive the Dealer Token and the deck,
+After shuffling, the Dealer must designate a Cutter.
+The Cutter must then receive the Dealer Token and the deck,
 then cut the deck, and return the Token and deck to the Dealer.
-If you are Dealer, you may not thereafter manipulate the cards except to deal them.
+The Dealer may not thereafter manipulate the cards except to deal them.
 
 ## Slam
 _Added by Mathias, 30 Aug 2023_
 
-If you draw a card on your turn instead of playing another move,
-you may thereafter play a card or a collection of cards
+If the Active Player draws a card instead of playing another move,
+they may thereafter play a card or a collection of cards
 if it is otherwise valid to do so.
 
 ## Honorable Penalty
 _Added by Xavier, 30 Aug 2023_
 
-If you are to draw a penalty card,
-you must first make eye contact with the Dealer and bow.
+If a player is to draw a penalty card,
+they must first make eye contact with the Dealer and bow.
 
 ## 8 Skips
 _Added by Jonathan, 30 Aug 2023_
 
-If you play an 8, the next player's turn is skipped.
-If you play multiple 8's, one player is skipped per 8.
+If a player plays an 8, the next player's turn is skipped.
+If a player plays multiple 8's, one player is skipped per 8.
 
 ## Victory Celebration
 _Added by Matt, 30 Aug 2023_
 
-If you would play one or more cards such that you would begin to have 0 cards,
-you must first audibly celebrate.
+If a player would play one or more cards such that they would begin to have 0 cards,
+they must first audibly celebrate.
 
 ## Turn Token
 _Added by Mathias, 13 Sep 2023_
 
 The Active Player is designated by the Turn Token.
-The first action on your turn must be to take the Token from the center.
-The last action on your turn must be to remove the Token from the center.
+The first action on a player's turn must be to take the Token from the center.
+The last action on a player's turn must be to return the Token to the center.
 
 ## Private Penalty
 _Added by Jonathan, 13 Sep 2023_
 
-Before taking a penalty card, you may close your eyes and bow,
+Before taking a penalty card, a player may close their eyes and bow,
 rather than making eye contact with the Dealer and bowing.
 
 ## No Self-Traps
 _Added by Matt, 13 Sep 2023_
 
-You may only play a trap card when you are not in possession of the Turn Token.
+A player may only play a trap card when they are not in possession of the Turn Token.
 
 ## Tokbar
 _Added by Mathias, 13 Sep 2023_
 
-If you begin to have 3 cards, then you must say "Tokbar" before someone next plays a card.
+If a player begins to have 3 cards, then they must say "Tokbar" before someone next plays a card.
 
 ## Modified Trap
 _Added by Jonathan, 13 Sep 2023_
 
-When you play a trap card, you may say a card value one step higher or lower than the card's value.
+When a player plays a trap card, they may say a card value one step higher or lower than the card's value.
 The card is then considered to have that value.
 
 ## 6 Splits
 _Added by Matt, 20 Sep 2023_
 
-When you play a 6, you must play the card in a new pile.
+When a player plays a 6, they must play the card in a new pile.
 Subsequent moves may play on any pile.
 
 ## Barbar
 _Added by Jonathan, 20 Sep 2023_
 
-If you begin to have 4 cards, then you must say "Barbar" before someone next plays a card.
+If a player begins to have 4 cards, then they must say "Barbar" before someone next plays a card.
 
 ## Killer Jack
 _Added by Matt, 20 Sep 2023_
@@ -192,14 +196,14 @@ A pile containing a Jack may not be played upon unless all piles contain a Jack.
 ## 3 Flips
 _Added by Jonathan, 20 Sep 2023_
 
-When you play a 3, you must flip the pile.
-If the top card of the pile is face-down, you must then flip it.
+When a player plays a 3, they must flip the pile.
+If the top card of the pile is face-down, they must then flip it.
 
 ## Take 2
 _Added by Matt, 20 Sep 2023_
 
-When you would draw a non-penalty card on your turn,
-you may instead take two cards from the pile.
+When the Active Player would draw a non-penalty card,
+they may instead take two cards from the pile.
 
 ## Hand of 6
 _Added by Jonathan, 20 Sep 2023_
