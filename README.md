@@ -209,3 +209,36 @@ they may instead take two cards from the pile.
 _Added by Jonathan, 20 Sep 2023_
 
 Each player begins play with 6 cards.
+
+## Trap New Pile
+_Added by Mathias, 27 Sep 2023_
+
+When a trap card with the value 6 is played,
+it must be played in a new pile.
+
+## Descending Bartok
+_Added by Matt, 27 Sep 2023_
+
+Rules mandating an utterance upon reaching a certain number of cards
+only apply when descending to that number of cards.
+
+## Take 2, Trap 1
+_Added by Jonathan, 27 Sep 2023_
+
+When a player draws two cards from the pile,
+they may lay one of them as a trap.
+
+There must always be at least one pile.
+
+## Empty Pile
+_Added by Mathias, 27 Sep 2023_
+
+The game begins with an empty pile, whose top value is considered wild.
+When a pile is emptied:
+- If it is the last pile, then it remains an empty pile
+- If it is not the last pile, then it is eliminated.
+
+## Chef
+_Added by Matt, 27 Sep 2023_
+
+The last player to have added a rule is considered Chef.
