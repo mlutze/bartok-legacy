@@ -241,4 +241,31 @@ When a pile is emptied:
 ## Chef
 _Added by Matt, 27 Sep 2023_
 
-The last player to have added a rule is considered Chef.
+The last player to have added a rule is considered Chef,
+indicated by the Chef Token.
+
+## Yes, Chef
+_Added by Jonathan, 4 Oct 2023_
+
+When the Chef gives an order to another player,
+such as giving a card or drawing a penalty card,
+the ordered player must say "Yes, Chef."
+
+## Proud 10
+_Added by Mathias, 4 Oct 2023_
+
+A player may not ask the function of a 10.
+
+## Dishwasher
+_Added by Matt, 4 Oct 2023_
+
+The last person to draw a penalty card is the Dishwasher,
+indicated by the Dishwasher Token.
+
+Accusations of rulebreaking are performed by giving the Token to the accused player.
+
+## Chef's Menu
+_Added by Jonathan, 4 Oct 2023_
+
+Before a round, the Chef chooses 2 rules to deactivate for the duration of the round.
+Other rules may be modified by consensus to maintain consistency.
