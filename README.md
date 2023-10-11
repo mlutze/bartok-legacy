@@ -268,4 +268,4 @@ Accusations of rulebreaking are performed by giving the Token to the accused pla
 _Added by Jonathan, 4 Oct 2023_
 
 Before a round, the Chef chooses 2 rules to deactivate for the duration of the round.
-Rules must remain logically consistent.
+Other rules may be modified by consensus to maintain consistency.
