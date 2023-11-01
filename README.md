@@ -269,3 +269,19 @@ _Added by Jonathan, 4 Oct 2023_
 
 Before a round, the Chef chooses 2 rules to deactivate for the duration of the round.
 Other rules may be modified by consensus to maintain consistency.
+
+## Dishwasher Card
+_Added by Mathias, 25 Oct 2023_
+
+The Dishwasher Token counts as a card
+for the purposes of card count announcements ("Bartok", "Toktok", etc.) and when giving cards.
+
+## Dishwasher Card, Revised
+_Added by Matt, 25 Oct 2023_
+
+The card count announcements ("Bartok", "Toktok", etc.) only need to be made when moving real cards.
+
+## Gaussian Primes
+_Added by Mathias, 25 Oct 2023_
+
+Primality is determined using Gaussian primes. (3, 7, 11, 19...)
