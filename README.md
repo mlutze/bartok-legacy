@@ -285,3 +285,27 @@ The card count announcements ("Bartok", "Toktok", etc.) only need to be made whe
 _Added by Mathias, 25 Oct 2023_
 
 Primality is determined using Gaussian primes. (3, 7, 11, 19...)
+
+## Chef's Lead
+_Added by Jonathan, 1 Nov 2023_
+
+On their turn, the Chef establishes the table's handedness
+by using one of their hands (left or right) to manipulate cards and tokens.
+
+Other players must follow this lead by using the same hand to manipulate cards and tokens
+until the Chef's next turn.
+
+## Dealer's Cards
+_Added by Matt, 1 Nov 2023_
+
+Only the Dealer may perform manipulation of cards and tokens
+not directly related to gameplay.
+
+## Duck of Death
+_Added by Mathias, 1 Nov 2023_
+
+There may only be up to 1 dead pile, marked by the Death Token,
+which must be placed by the player responsible for the pile's death.
+When a pile dies, the token moves to the newly dead pile, and any previously dead pile is revived.
+
+
