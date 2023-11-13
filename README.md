@@ -328,7 +328,7 @@ The player with the lowest (Aces low) Salad plays first.
 Play continues clockwise.
 
 As long as there is no player with the lowest top card in their Salad,
-the player with the top Salad card receives an additional card on their Salad.
+the player with the oldest top Salad card receives an additional card on their Salad.
 
 
 ## Chef's Primes
@@ -347,5 +347,5 @@ Aces count as both low and high for this rule, allowing sequences to "wrap aroun
 ## Salad Swap
 _Added by Jonathan, 8 Nov, 2023_
 
-Before the round begins,
-players may exchange cards from their hands with cards from their Salads.
+At any point during the game,
+a player may exchange cards from their hands with cards from their Salad.
