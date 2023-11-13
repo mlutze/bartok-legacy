@@ -308,4 +308,44 @@ There may only be up to 1 dead pile, marked by the Death Token,
 which must be placed by the player responsible for the pile's death.
 When a pile dies, the token moves to the newly dead pile, and any previously dead pile is revived.
 
+## Veto
+_Added by Jonathan, 8 Nov 2023_
 
+Each player has one veto.
+When the Active Player plays on the pile, any player may veto.
+The Active Player must then retrieve the cards they played, and make a different move.
+The vetoing player's veto is expended.
+
+## Starting Salad
+_Added by Matt, 8 Nov 2023_
+
+After dealing, but before the round begins,
+the Dealer must distributed one card, face up, to each player,
+starting from the Dealer's left.
+This is the player's Salad.
+The player with the lowest (Aces low) Salad plays first.
+
+Play continues clockwise.
+
+As long as there is no player with the lowest top card in their Salad,
+the player with the top Salad card receives an additional card on their Salad.
+
+
+## Chef's Primes
+_Added by Mathias, 8 Nov 2023_
+
+Before the round begins,
+the Chef determines the definition of "prime" for the round,
+selecting from among:
+- standard prime numbers
+- Gaussian prime numbers
+- number cards
+- cards of a particular suit
+
+Aces count as both low and high for this rule, allowing sequences to "wrap around".
+
+## Salad Swap
+_Added by Jonathan, 8 Nov, 2023_
+
+Before the round begins,
+players may exchange cards from their hands with cards from their Salads.
