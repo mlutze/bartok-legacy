@@ -356,7 +356,7 @@ _Added by Matt, 15 Nov 2023_
 If a player has an Ace, 2, or 3 in their Salad,
 and another player vetos their play,
 the first player may override the veto.
-If they override the veto, they must discard the Ace, 2, or 3 used to justify the veto.
+If they override the veto, they must discard the Ace, 2, or 3 used to override the veto.
 
 ## Salad 4 U
 _Added by Jonathan, 15 Nov 2023_
