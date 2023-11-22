@@ -345,7 +345,24 @@ selecting from among:
 Aces count as both low and high for this rule, allowing sequences to "wrap around".
 
 ## Salad Swap
-_Added by Jonathan, 8 Nov, 2023_
+_Added by Jonathan, 8 Nov 2023_
 
 At any point during the game,
 a player may exchange cards from their hands with cards from their Salad.
+
+## Salad Override
+_Added by Matt, 15 Nov 2023_
+
+If a player has an Ace, 2, or 3 in their Salad,
+and another player vetos their play,
+the first player may override the veto.
+If they override the veto, they must discard the Ace, 2, or 3 used to override the veto.
+
+## Salad 4 U
+_Added by Jonathan, 15 Nov 2023_
+
+When a player plays a 4,
+they must take the card from the bottom of the pile on which they played,
+and count its value among the players,
+starting from the player's left and continuing clockwise.
+The card is added to the Salad of the last player counted.
